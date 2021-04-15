@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was completed in order to refactor already-existing code to meet accessibility standards. The HTML and CSS files were updated accordingly, in order to make the website more accesible to assistive technologies and to opitimize the website. 
+This project was completed in order to refactor already-existing code to meet accessibility standards. The HTML and CSS files were updated accordingly, in order to make the website more accessible to assistive technologies and to opitimize the website. 
 
 ## Installation
 
@@ -19,7 +19,7 @@ A simple webpage about managing an online business:
 Updating the HTML file with semantic elements: 
   <img src="assets/images/html.png" width="550px">
  
-Updating the CSS file to be more accesible: 
+Updating the CSS file to be more accessible: 
   <img src="assets/images/css.png" width="550px">
  
   

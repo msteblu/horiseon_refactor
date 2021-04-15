@@ -1,4 +1,4 @@
-# Horiseon Webpage (Refactoring)
+# Horiseon Webpage (Code Refactor Assignment)
 
 ## Description
 

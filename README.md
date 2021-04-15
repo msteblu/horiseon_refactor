@@ -8,11 +8,20 @@ This project was completed in order to refactor already-existing code to meet ac
 
 This is a simple index.html file that can be opened in browsers and has been deployed to a GitHub page. 
 
-## Usage
+## Use
 
+A simple webpage about managing an online business:  
   ![Screenshot of Site](assets/images/Horiseon.png)
   
   See the deployed site [here](https://msteblu.github.io/horiseon_refactor/).
+  
+*Updating accessibility standards:*
+Updating the HTML file with semantic elements: 
+  <img src="assets/images/html.png" width="550px">
+ 
+Updating the CSS file to be more accesible: 
+  <img src="assets/images/css.png" width="550px">
+ 
   
 ## Credits
 

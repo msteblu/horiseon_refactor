@@ -6,6 +6,10 @@
 
 ## Usage
 
+  ```md
+  ![Screenshot of Site](assets/images/Horiseon.png)
+  ```
+  
 ## Credits
 
 ## License

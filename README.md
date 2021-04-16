@@ -6,11 +6,11 @@ This project was completed in order to refactor already-existing code to meet ac
 
 ## Installation
 
-This is a simple index.html file that can be opened in browsers and has been deployed to a GitHub page. 
+This is a simple index.html file that can be opened in browsers (with a download and clone) and has been deployed to a GitHub page. 
 
 ## Use
 
-A simple webpage about managing an online business:  
+Navigate to the downloaded index.html to open this webpage (a simple website with tips about managing an online business) in your browser:
   ![Screenshot of Site](assets/images/Horiseon.png)
   
   See the deployed site [here](https://msteblu.github.io/horiseon_refactor/).

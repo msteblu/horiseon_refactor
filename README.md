@@ -19,7 +19,7 @@ Navigate to the downloaded index.html to open this webpage (a simple website wit
 Updating the HTML file with semantic elements: 
   <img src="assets/images/html.png" width="550px">
  
-Updating the CSS file to be more accessible: 
+Updating the CSS file to be more accessible (consolidating and organizing the structure of the file): 
   <img src="assets/images/css.png" width="550px">
  
   
